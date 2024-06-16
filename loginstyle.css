@@ -6,7 +6,6 @@ body{
     /* background: linear-gradient(to right, #1877F2, #cfd8dc); */
     background: linear-gradient(to right, #1877F2, #f5f5dc);
     font-family: 'Roboto', Arial, sans-serif; 
-    font-size: 17.5rem;
 }
 .container{
     display: flex;
