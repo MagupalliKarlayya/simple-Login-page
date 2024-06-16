@@ -6,8 +6,6 @@ body{
     /* background: linear-gradient(to right, #1877F2, #cfd8dc); */
     background: linear-gradient(to right, #1877F2, #f5f5dc);
     font-family: 'Roboto', Arial, sans-serif; 
-    width: 100%;
-    height: 100%;
 }
 .container{
     display: flex;
